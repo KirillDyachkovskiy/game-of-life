@@ -1,0 +1,18 @@
+.SettingsBar {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+
+    height: 80px;
+    width: 200px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    border-radius: 10px;
+    border: 1px solid black;
+    /* move colors outside */
+    background-color: white;
+}
